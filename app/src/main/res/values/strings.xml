@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedWarring</string>
+    <string name="sample_device_admin_description">RedWarring</string>
+    <string name="sample_device_admin">RedWarring</string>
+</resources>
